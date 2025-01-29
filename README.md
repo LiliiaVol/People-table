@@ -1,10 +1,10 @@
 # People Table
 
-## Description
+## 🚀 Description
 
 The People Table project is a web application designed to display and manage a list of people in a table format. Users can view, filter, and interact with the data in an intuitive and user-friendly interface. The application leverages modern front-end technologies to ensure an efficient and smooth experience.
 
-## Features
+## ✨ Features
 
 **Table of People**: Displays a list of people in a table format with various attributes like name, age, and more.
 
@@ -18,7 +18,7 @@ The People Table project is a web application designed to display and manage a l
 
 **Responsive Design**: The layout adapts to different screen sizes for an optimal mobile and desktop experience.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 **React**: A JavaScript library for building user interfaces, primarily used for creating interactive UI components and handling state management in this project.
 
