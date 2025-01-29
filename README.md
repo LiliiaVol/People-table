@@ -39,6 +39,6 @@ The People Table project is a web application designed to display and manage a l
 **Webpack**: A module bundler that is used to bundle JavaScript, CSS, and other files into a single or a few optimized files for better performance.
 
 ## 🌐 Live Demo
-Check out the live version of the landing page here:
+Check out the live version of the People table page here:
 
 🔗 [DEMO LINK](https://liliiavol.github.io/People-table/)
