@@ -41,4 +41,4 @@ The People Table project is a web application designed to display and manage a l
 ## 🌐 Live Demo
 Check out the live version of the landing page here:
 
-🔗 DEMO LINK[https://liliiavol.github.io/People-table/]
+🔗 [DEMO LINK](https://liliiavol.github.io/People-table/)
